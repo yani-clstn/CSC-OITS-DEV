@@ -1,16 +1,17 @@
 export const currentUser = {
-  fullName: "Althea Reyes",
+  fullName: "Althea Kabigting",
   role: "officer",
   title: "Assistant Secretary",
-  committee: "Executive Board",
+  committee: "Secretariat Committee",
 };
 
 export const officers = [
-  { name: "Marco Villanueva", role: "President", committee: "Executive Board" },
-  { name: "Dana Ibarra", role: "Vice President", committee: "Executive Board" },
-  { name: "Althea Reyes", role: "Assistant Secretary", committee: "Executive Board" },
-  { name: "Josiah Cruz", role: "Treasurer", committee: "Finance" },
-  { name: "Elijah Santos", role: "Committee Head", committee: "Internal Affairs" },
+  { name: "Catherine Ellisha Lois T. Bucud", role: "President", committee: "Executive Board" },
+  { name: "Sam Symon S. Gonzales", role: "Internal Vice President", committee: "Executive Board" },
+  { name: "Ashley Christian C. Verdad", role: "Secretary", committee: "Executive Board" },
+  { name: "Althea Kabigting", role: "Assistant Secretary", committee: "Secretariat Committee" },
+  { name: "Angel Roselyn H. Cabanal", role: "Treasurer", committee: "Finance" },
+  { name: "Elijah Joshua E. Festin", role: "Committee Head", committee: "Internal Affairs" },
   { name: "Nicole Fajardo", role: "Committee Head", committee: "Publicity" },
 ];
 
