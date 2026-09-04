@@ -28,7 +28,7 @@ export default function OfficerSidebar() {
   return (
     <aside
       className={`flex h-screen shrink-0 flex-col border-r border-ink-200 bg-ink-900 py-5 transition-all ${
-        collapsed ? "w-[68px] px-3" : "w-56 px-4"
+        collapsed ? "w-17 px-3" : "w-56 px-4"
       }`}
     >
       <div className="mb-8 flex items-center justify-between px-1">

@@ -30,10 +30,10 @@ export default function MemberOverview() {
   return (
     <div>
       <h1 className="font-display text-xl font-semibold text-ink-900">
-        Hey, {currentUser.fullName.split(" ")[0]} 👋
+        Hey, {currentUser.fullName.split(" ")[0]} 
       </h1>
       <p className="mt-1 text-sm text-ink-500">
-        Here's what's happening in the Clique this week.
+        Here's what's happening in CSC this week.
       </p>
 
       <div className="mt-6 grid gap-5 md:grid-cols-[1.3fr_1fr]">

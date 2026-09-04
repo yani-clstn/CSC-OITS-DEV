@@ -45,8 +45,7 @@ export default function PublicLanding() {
             CvSU Imus · BSCS Organization
           </span>
           <h1 className="font-display mt-6 text-[40px] font-semibold leading-[1.1] tracking-tight text-ink-900 md:text-5xl">
-            One place for every event,
-            <br /> task, and record the Clique keeps.
+            We plan firmly, and we act with integrity. 
           </h1>
           <p className="mx-auto mt-5 max-w-lg text-[15px] leading-relaxed text-ink-500">
             Computer Science Clique's home for schedules, committee
